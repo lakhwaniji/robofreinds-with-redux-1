@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robofreinds-with-redux-1/static/css/main.60555379.chunk.css",
+    "main.js": "/robofreinds-with-redux-1/static/js/main.65692377.chunk.js",
+    "main.js.map": "/robofreinds-with-redux-1/static/js/main.65692377.chunk.js.map",
+    "runtime-main.js": "/robofreinds-with-redux-1/static/js/runtime-main.d1c54d9b.js",
+    "runtime-main.js.map": "/robofreinds-with-redux-1/static/js/runtime-main.d1c54d9b.js.map",
+    "static/css/2.036b41f9.chunk.css": "/robofreinds-with-redux-1/static/css/2.036b41f9.chunk.css",
+    "static/js/2.f0f2ef94.chunk.js": "/robofreinds-with-redux-1/static/js/2.f0f2ef94.chunk.js",
+    "static/js/2.f0f2ef94.chunk.js.map": "/robofreinds-with-redux-1/static/js/2.f0f2ef94.chunk.js.map",
+    "index.html": "/robofreinds-with-redux-1/index.html",
+    "precache-manifest.188f5feaf565a416219ac6b41aa25e22.js": "/robofreinds-with-redux-1/precache-manifest.188f5feaf565a416219ac6b41aa25e22.js",
+    "service-worker.js": "/robofreinds-with-redux-1/service-worker.js",
+    "static/css/2.036b41f9.chunk.css.map": "/robofreinds-with-redux-1/static/css/2.036b41f9.chunk.css.map",
+    "static/css/main.60555379.chunk.css.map": "/robofreinds-with-redux-1/static/css/main.60555379.chunk.css.map",
+    "static/js/2.f0f2ef94.chunk.js.LICENSE.txt": "/robofreinds-with-redux-1/static/js/2.f0f2ef94.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robofreinds-with-redux-1/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1c54d9b.js",
+    "static/css/2.036b41f9.chunk.css",
+    "static/js/2.f0f2ef94.chunk.js",
+    "static/css/main.60555379.chunk.css",
+    "static/js/main.65692377.chunk.js"
+  ]
+}
